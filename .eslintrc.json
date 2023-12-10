@@ -5,6 +5,9 @@
   "parserOptions": {
     "project": ["./tsconfig.json"]
   },
+  "env": {
+    "browser": true
+  },
   "rules": {
     "prettier/prettier": [
       "error",
