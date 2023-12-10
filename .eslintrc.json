@@ -6,6 +6,9 @@
     "browser": true,
     "jest": true
   },
+  "globals": {
+    "screen": "off"
+  },
   "rules": {
     "prettier/prettier": [
       "error",
