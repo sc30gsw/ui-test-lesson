@@ -24,6 +24,7 @@
     "@storybook/addon-links": "^7.6.4",
     "@storybook/addon-onboarding": "^1.0.9",
     "@storybook/blocks": "^7.6.4",
+    "@storybook/jest": "^0.2.3",
     "@storybook/react": "^7.6.4",
     "@storybook/react-vite": "^7.6.4",
     "@storybook/test": "^7.6.4",
