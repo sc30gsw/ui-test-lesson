@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SnapshotComponent Snapshotテスト 1`] = `
+<div>
+  <div>
+    <p>
+      Next.js
+    </p>
+  </div>
+</div>
+`;
